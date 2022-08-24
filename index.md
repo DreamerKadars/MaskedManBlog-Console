@@ -4,9 +4,9 @@
 
 <http://www.soultrial.top/#!Nginx.md>
 
-## go_node
+## GoNote
 
-<http://www.soultrial.top/#!go_note.md>
+<http://www.soultrial.top/#!GoNote.md>
 
 ## git
 
