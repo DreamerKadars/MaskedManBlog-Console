@@ -19,3 +19,16 @@ sudo sh -c "echo 'export PATH=\$PATH:/usr/local/go/bin' >> /etc/profile"
 rm bytedance-go.tar.gztar.gz
 
 ```
+
+```cpp
+type struct Perfume {
+     EternalLove
+}
+```
+
+## 文件操作
+
+file, err := os.Open("testFile")
+
+## log
+
