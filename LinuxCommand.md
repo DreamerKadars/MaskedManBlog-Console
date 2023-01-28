@@ -102,3 +102,11 @@ chmod：改变文件的权限。
 # 改变整个目录下的拥有者
 sudo chown -R ubuntu /usr/local/nginx/
 ```
+
+## ssh密钥生成
+
+```bash
+ssh-keygen -t rsa -C "xxxxx@xxxxx.com"  
+cat ~/.ssh/id_rsa.pub
+# ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQC6eNtGpNGwstc....
+```
