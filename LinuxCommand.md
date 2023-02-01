@@ -137,3 +137,10 @@ sudo chown -R ubuntu /usr/local/nginx/
 3. 卸载软件
 
     dpkg -p 
+## ssh密钥生成
+
+```bash
+ssh-keygen -t rsa -C "xxxxx@xxxxx.com"  
+cat ~/.ssh/id_rsa.pub
+# ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQC6eNtGpNGwstc....
+```

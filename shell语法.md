@@ -30,3 +30,10 @@ do
     curl --location --request GET 'http://10.248.189.61:8080/api/v1/cloud/sre/closedomainticket/?ticketId=1840'$i   
     let i+=1    
 done
+```
+
+## 查看文件编码格式
+
+用vim打开文件，输入`set fileencoding` 
+
+实际上文件的前几个字符，决定了文件的编码方式
