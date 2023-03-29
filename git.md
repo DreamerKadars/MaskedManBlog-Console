@@ -16,8 +16,6 @@ git branch --set-upstream-to=origin/<branch> master #设置本地分支master跟
 ## 查看当前分支对应远程的哪个分支
 
 ``` bash
-
-
 git branch -vv
 ```
 
@@ -31,3 +29,6 @@ git reset HEAD^
 
 ## git Rebase
 
+## git config
+
+- 解决中文乱码：git config --global core.quotepath false

@@ -32,3 +32,15 @@ file, err := os.Open("testFile")
 
 ## log
 
+## 读写锁
+
+使用库“sync”,使用读写锁的MAP实例如下：
+
+```go
+
+```
+
+
+## sort.Sort
+
+需要实现对应的Len Less Swap

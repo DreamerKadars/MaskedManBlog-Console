@@ -144,3 +144,11 @@ ssh-keygen -t rsa -C "xxxxx@xxxxx.com"
 cat ~/.ssh/id_rsa.pub
 # ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQC6eNtGpNGwstc....
 ```
+
+## 查看指定进程的信息
+
+ps u 330363
+
+## 查看文件详细信息
+
+ls -ll
